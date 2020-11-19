@@ -1,0 +1,2058 @@
+{
+  "ACTB04": [
+    {
+      "M01": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "Given 6x + 4 = 12x – 8, Solve for x:",
+          "CorrectAnswer": "x = 2",
+          "Explanation": "First isolate x on one side. Then isolate the constant on the other. Finally, divide both sides by the coefficient.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "x = -2",
+              "WrongAnswerClue": "Pay attention to the sign. Don't forget to subtract the variable from <i>both</i> sides."
+            },
+            {
+              "WrongAnswer": "x = 2/3",
+              "WrongAnswerClue": "Mistake adding or subtracting from both sides of the equation. Ensure what you do on one side is what you do on the other."
+            },
+            {
+              "WrongAnswer": "x = -2/3",
+              "WrongAnswerClue": "Mistake adding or subtracting from both sides of the equation. Ensure what you do on one side is what you do on the other."
+            },
+            {
+              "WrongAnswer": "x = 1",
+              "WrongAnswerClue": "Don't forget to subtract the variable from <i>both</i> sides."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "Given 5x – 10 = 15x – 5, Solve for x:",
+          "CorrectAnswer": "x = -1/2",
+          "Explanation": "First isolate x on one side. Then isolate the constant on the other. Finally, divide both sides by the coefficient.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "x = 1/2",
+              "WrongAnswerClue": "Pay attention to the sign."
+            },
+            {
+              "WrongAnswer": "x = 1",
+              "WrongAnswerClue": "Take the time to do the problem thoroughly. Ensure you are properly balancing the equation."
+            },
+            {
+              "WrongAnswer": "x = -2",
+              "WrongAnswerClue": "Take the time to ensure you are dividing in the right direction."
+            },
+            {
+              "WrongAnswer": "x = -1 1/2",
+              "WrongAnswerClue": "Take the time to ensure you are properly keeping the equation balanced when subtracting the constant from both sides."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "Given 2x + 22 = 4x - 8, Solve for x:",
+          "CorrectAnswer": "x = 15",
+          "Explanation": "First isolate x on one side. Then isolate the constant on the other. Finally, divide both sides by the coefficient.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "x = 7",
+              "WrongAnswerClue": "Ensure you keep the equation balanced while combining the constants."
+            },
+            {
+              "WrongAnswer": "x = 3 3/4",
+              "WrongAnswerClue": "Take the time to do the problem carefully. Don't multiply where you should subtract."
+            },
+            {
+              "WrongAnswer": "x = 5",
+              "WrongAnswerClue": "Ensure you keep the equation balanced while isolating the variable."
+            },
+            {
+              "WrongAnswer": "x = 10",
+              "WrongAnswerClue": "Ensure you understand how to isolate variables and keep your equation balanced."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "Given -2y + 3 = 6y - 5, Solve for y:",
+          "CorrectAnswer": "y = 1",
+          "Explanation": "First isolate y on one side. Then isolate the constant on the other. Finally, divide both sides by the coefficient.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "y = -1",
+              "WrongAnswerClue": "Pay attention to the sign when subtracting from both sides."
+            },
+            {
+              "WrongAnswer": "y = 2",
+              "WrongAnswerClue": "Ensure the equation remains balanced when isolating the variable."
+            },
+            {
+              "WrongAnswer": "y = -1/4",
+              "WrongAnswerClue": "Ensure the equation remains balanced. When adding to one side, add it to the other."
+            },
+            {
+              "WrongAnswer": "y = -2",
+              "WrongAnswerClue": "Ensure the equation remains balanced when isolating the variable. Pay attention to the sign."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M02": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "Jessica earns $30 per hour at her job. She earns that rate for the first 40 hours per week she works. After 40 hours, she earns overtime pay that is 1 ½ times her ordinary rate. How much does Jessica earn after a particularly long week in which she worked for 50 hours?",
+          "CorrectAnswer": "$1,650",
+          "Explanation": "First, multiply standard pay per hour by the first 40 hours to get standard pay. Then multiply pay per hour by the overtime modifier. Multiply overtime pay rate by the number of hours worked overtime to get overtime pay. The answer is the sum of standard and overtime pay.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "$1,560",
+              "WrongAnswerClue": "Pay close attention to the order of the digits."
+            },
+            {
+              "WrongAnswer": "$16,500",
+              "WrongAnswerClue": "Pay close attention to the number of zeroes at the end."
+            },
+            {
+              "WrongAnswer": "$2,250",
+              "WrongAnswerClue": "Only the last 10 of the 50 hours is at the overtime rate. The first 40 are at the regular rate."
+            },
+            {
+              "WrongAnswer": "$22,500",
+              "WrongAnswerClue": "Only the last 10 of the 50 hours is at the overtime rate. Also, pay attention to the number of zeroes at the end of the answer."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "Zachary earns $15 per hour for the first 40 hours of work per week. After that first 40 hours, he earns 1 1/3 times his regular wage. If Zachary works for 50 hours in a given week, how much did he make that week?",
+          "CorrectAnswer": "$800",
+          "Explanation": "First, multiply standard pay per hour by the first 40 hours to get standard pay. Then multiply pay per hour by the overtime modifier. Multiply overtime pay rate by the number of hours worked overtime to get overtime pay. The answer is the sum of standard and overtime pay.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "$8,000",
+              "WrongAnswerClue": "Pay attention to the number of digits of your answer."
+            },
+            {
+              "WrongAnswer": "$1,000",
+              "WrongAnswerClue": "Only the last 10 hours are at the overtime rate. The first 40 are at the regular rate."
+            },
+            {
+              "WrongAnswer": "$1,600",
+              "WrongAnswerClue": "Zachary works 50 hours total, not 50 overtime hours. Double check what you multiplied the overtime rate by."
+            },
+            {
+              "WrongAnswer": "$16,000",
+              "WrongAnswerClue": "50 hours is the total time worked, not the overtime hours worked. In addition, pay careful attention to the number of zeroes at the end of the answer."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "James earns $16 per hour at his job for the first 40 hours per week he works there. After the first 40 hours, he earns overtime pay equal to 1 ½ times his normal pay for each hour he works. How much does James earn if he works 44 hours in a week?",
+          "CorrectAnswer": "$736",
+          "Explanation": "First, multiply standard pay per hour by the first 40 hours to get standard pay. Then multiply pay per hour by the overtime modifier. Multiply overtime pay rate by the number of hours worked overtime to get overtime pay. The answer is the sum of standard and overtime pay.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "$763",
+              "WrongAnswerClue": "Pay careful attention to the order of the digits."
+            },
+            {
+              "WrongAnswer": "$1,056",
+              "WrongAnswerClue": "Only the hours after the first 40 are at the overtime rate."
+            },
+            {
+              "WrongAnswer": "$1,696",
+              "WrongAnswerClue": "44 is the total number of hours including the first 40. James did not work 44 overtime hours."
+            },
+            {
+              "WrongAnswer": "$7,636",
+              "WrongAnswerClue": "Pay attention to the order and number of the digits."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "Samantha earns $16 per hour at her job for the first 40 hours per week she works. She earns overtime pay equal to 1 1/4 times her regular pay for every hour she works after that first 40 hours. How much does Samantha earn if she works 46 hours in a week?",
+          "CorrectAnswer": "$760",
+          "Explanation": "First, multiply standard pay per hour by the first 40 hours to get standard pay. Then multiply pay per hour by the overtime modifier. Multiply overtime pay rate by the number of hours worked overtime to get overtime pay. The answer is the sum of standard and overtime pay.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "$670",
+              "WrongAnswerClue": "Pay attention to the order of the digits."
+            },
+            {
+              "WrongAnswer": "$7,600",
+              "WrongAnswerClue": "Pay attention to the number of zeroes at the end."
+            },
+            {
+              "WrongAnswer": "$6,700",
+              "WrongAnswerClue": "Pay attention to the order of the digits and the number of zeroes at the end."
+            },
+            {
+              "WrongAnswer": "$920",
+              "WrongAnswerClue": "Only the hours worked after the first 40 are at the overtime rate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M03": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "A tank on the back of a truck initially contained 400 gallons of liquid nitrogen. However, the tank has a leak. As the truck drives, the nitrogen leaks out and evaporates at a rate of 5 gallons per minute. For the time that the tank still has any of its liquid nitrogen left, which of the following functions accurately represents the number of gallons, G, in the tank t minutes after the leak started?",
+          "CorrectAnswer": "G(t) = 400 – 5t",
+          "Explanation": "The formula for linear change is represented as G(t) = Mt + C where M is the rate of change and C is the y-intercept, the value of G(t) at t = 0. C is the amount of fluid you start with, and M is the rate it changes at.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "G(t) = 5t - 400",
+              "WrongAnswerClue": "Water volume is decreasing, not increasing. Starting volume cannot be negative."
+            },
+            {
+              "WrongAnswer": "G(t) = 400t - 5",
+              "WrongAnswerClue": "t is in the incorrect position."
+            },
+            {
+              "WrongAnswer": "G(t) = 5 - 400t",
+              "WrongAnswerClue": "The rate of change and starting quantity have been swapped."
+            },
+            {
+              "WrongAnswer": "G(t) = 400 + 5t",
+              "WrongAnswerClue": "Soda volume is decreasing with time, not increasing."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "A tub designed to hold 40 liters of water has a minor leak in its bottom. This leak lets out a steady trickle that results in the tank loosing 2 liters per hour. For the time the tub has water in it, which of the following functions represents the number of liters, L, in the tub t hours after the tub started leaking?",
+          "CorrectAnswer": "L(t) = 40 – 2t",
+          "Explanation": "The formula for linear change is represented as G(t) = Mt + C where M is the rate of change and C is the y-intercept, the value of G(t) at t = 0. C is the amount of fluid you start with, and M is the rate it changes at.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "L(t) = 2t - 40",
+              "WrongAnswerClue": "Water volume is decreasing, not increasing. Starting volume cannot be negative."
+            },
+            {
+              "WrongAnswer": "L(t) = 40t - 2",
+              "WrongAnswerClue": "t is in the incorrect position."
+            },
+            {
+              "WrongAnswer": "L(t) = 2 - 40t",
+              "WrongAnswerClue": "The rate of change and starting quantity have been swapped."
+            },
+            {
+              "WrongAnswer": "L(t) = 40 + 5t",
+              "WrongAnswerClue": "Soda volume is decreasing with time, not increasing."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "A 20 oz bottle of soda has a defect to its design. This defect causes the bottle to spring a leak and loose soda at about 1.5 oz per minute. While the bottle of soda still has soda in it, what function would best represent the number of Ounces, O, remaining in the bottle after t minutes from the start of the leak?",
+          "CorrectAnswer": "O(t) = 20 – 1.5t",
+          "Explanation": "The formula for linear change is represented as G(t) = Mt + C where M is the rate of change and C is the y-intercept, the value of G(t) at t = 0. C is the amount of fluid you start with, and M is the rate it changes at.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "O(t) = 1.5t - 20",
+              "WrongAnswerClue": "Water volume is decreasing, not increasing. Starting volume cannot be negative."
+            },
+            {
+              "WrongAnswer": "O(t) = 20t - 1.5",
+              "WrongAnswerClue": "t is in the incorrect position."
+            },
+            {
+              "WrongAnswer": "O(t) = 1.5 - 20t",
+              "WrongAnswerClue": "The rate of change and starting quantity have been swapped."
+            },
+            {
+              "WrongAnswer": "O(t) = 20 + 1.5t",
+              "WrongAnswerClue": "Soda volume is decreasing with time, not increasing."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "A swimming pool contains 20,000 gallons of water in it. Because it isn’t in use, the owners start draining it at about 20 gallons per minute. Which of the following functions represents the number of gallons, G, left in the pool t minutes after the owners start to drain it?",
+          "CorrectAnswer": "G(t) = 20,000 – 20t",
+          "Explanation": "The formula for linear change is represented as G(t) = Mt + C where M is the rate of change and C is the y-intercept, the value of G(t) at t = 0. C is the amount of fluid you start with, and M is the rate it changes at.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "G(t) = 20t - 20,000",
+              "WrongAnswerClue": "Water volume is decreasing, not increasing. Starting volume cannot be negative."
+            },
+            {
+              "WrongAnswer": "G(t) = 20,000t - 20",
+              "WrongAnswerClue": "t is in the incorrect position."
+            },
+            {
+              "WrongAnswer": "G(t) = 20 - 20,000t",
+              "WrongAnswerClue": "The rate of change and starting quantity have been swapped."
+            },
+            {
+              "WrongAnswer": "G(t) = 20,000 + 20t",
+              "WrongAnswerClue": "Water volume is decreasing with time, not increasing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M04": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "Which of the following expressions is equal to (x<sup>2</sup>y<sup>5</sup>z)(x<sup>4</sup>y<sup>2</sup>z<sup>9</sup>)?",
+          "CorrectAnswer": "(x<sup>6</sup>y<sup>7</sup>z<sup>10</sup>)",
+          "Explanation": "When multiplying exponents with the same base, add the exponents together for each individual respective base.<br>I.E. (x<sup>2</sup>y<sup>3</sup>z<sup>4</sup>)(x<sup>4</sup>y<sup>2</sup>z<sup>3</sup>) = (x<sup>6</sup>y<sup>5</sup>z<sup>7</sup>)",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "(x<sup>8</sup>y<sup>10</sup>z<sup>9</sup>)",
+              "WrongAnswerClue": "When multiplying exponents with the same base, <i>add</i> the exponents together."
+            },
+            {
+              "WrongAnswer": "(x<sup>3</sup>y<sup>3.5</sup>z<sup>5</sup>)",
+              "WrongAnswerClue": "Only add the exponents, don't average them."
+            },
+            {
+              "WrongAnswer": "(x<sup>6</sup>y<sup>7</sup>z<sup>9</sup>)",
+              "WrongAnswerClue": "Pay attention to all three bases and their exponents. Make sure to do the problem fully."
+            },
+            {
+              "WrongAnswer": "(x<sup>8</sup>y<sup>10</sup>z<sup>10</sup>)",
+              "WrongAnswerClue": "Add the exponents together, don't multiply them. Make sure you do the problem fully."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "Which of the following expressions is equal to (x<sup>7</sup>y<sup>4</sup>z<sup>5</sup>)(x<sup>2</sup>y<sup>3</sup>z<sup>4</sup>)?",
+          "CorrectAnswer": "(x<sup>9</sup>y<sup>7</sup>z<sup>9</sup>)",
+          "Explanation": "When multiplying exponents with the same base, add the exponents together for each individual respective base.<br>I.E. (x<sup>2</sup>y<sup>3</sup>z<sup>4</sup>)(x<sup>4</sup>y<sup>2</sup>z<sup>3</sup>) = (x<sup>6</sup>y<sup>5</sup>z<sup>7</sup>)",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "(x<sup>14</sup>y<sup>12</sup>z<sup>20</sup>)",
+              "WrongAnswerClue": "When multiplying exponents with the same base, <i>add</i> the exponents together."
+            },
+            {
+              "WrongAnswer": "(x<sup>4.5</sup>y<sup>3.5</sup>z<sup>4.5</sup>)",
+              "WrongAnswerClue": "Only add the exponents, don't average them."
+            },
+            {
+              "WrongAnswer": "(x<sup>9</sup>y<sup>7</sup>z<sup>20</sup>)",
+              "WrongAnswerClue": "Pay attention to all three bases and their exponents. Make sure to do the problem fully."
+            },
+            {
+              "WrongAnswer": "(x<sup>14</sup>y<sup>12</sup>z<sup>9</sup>)",
+              "WrongAnswerClue": "Add the exponents together, don't multiply them. Make sure you do the problem fully."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "Which of the following expressions is equal to (x<sup>3</sup>y<sup>2</sup>z<sup>9</sup>)(x<sup>7</sup>y<sup>8</sup>z<sup>6</sup>)?",
+          "CorrectAnswer": "(x<sup>10</sup>y<sup>10</sup>z<sup>15</sup>)",
+          "Explanation": "When multiplying exponents with the same base, add the exponents together for each individual respective base.<br>I.E. (x<sup>2</sup>y<sup>3</sup>z<sup>4</sup>)(x<sup>4</sup>y<sup>2</sup>z<sup>3</sup>) = (x<sup>6</sup>y<sup>5</sup>z<sup>7</sup>)",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "(x<sup>21</sup>y<sup>16</sup>z<sup>54</sup>)",
+              "WrongAnswerClue": "When multiplying exponents with the same base, <i>add</i> the exponents together."
+            },
+            {
+              "WrongAnswer": "(x<sup>5</sup>y<sup>5</sup>z<sup>7.5</sup>)",
+              "WrongAnswerClue": "Only add the exponents, don't average them."
+            },
+            {
+              "WrongAnswer": "(x<sup>10</sup>y<sup>10</sup>z<sup>54</sup>)",
+              "WrongAnswerClue": "Pay attention to all three bases and their exponents. Make sure to do the problem fully."
+            },
+            {
+              "WrongAnswer": "(x<sup>21</sup>y<sup>16</sup>z<sup>15</sup>)",
+              "WrongAnswerClue": "Add the exponents together, don't multiply them. Make sure you do the problem fully."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "Which of the following expressions is equal to (x<sup>2</sup>y<sup>10</sup>z<sup>4</sup>)(x<sup>4</sup>y<sup>3</sup>z<sup>2</sup>)?",
+          "CorrectAnswer": "(x<sup>6</sup>y<sup>13</sup>z<sup>6</sup>)",
+          "Explanation": "When multiplying exponents with the same base, add the exponents together for each individual respective base.<br>I.E. (x<sup>2</sup>y<sup>3</sup>z<sup>4</sup>)(x<sup>4</sup>y<sup>2</sup>z<sup>3</sup>) = (x<sup>6</sup>y<sup>5</sup>z<sup>7</sup>)",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "(x<sup>8</sup>y<sup>30</sup>z<sup>8</sup>)",
+              "WrongAnswerClue": "When multiplying exponents with the same base, <i>add</i> the exponents together."
+            },
+            {
+              "WrongAnswer": "(x<sup>3</sup>y<sup>6.5</sup>z<sup>3</sup>)",
+              "WrongAnswerClue": "Only add the exponents, don't average them."
+            },
+            {
+              "WrongAnswer": "(x<sup>6</sup>y<sup>13</sup>z<sup>8</sup>)",
+              "WrongAnswerClue": "Pay attention to all three bases and their exponents. Make sure to do the problem fully."
+            },
+            {
+              "WrongAnswer": "(x<sup>8</sup>y<sup>30</sup>z<sup>6</sup>)",
+              "WrongAnswerClue": "Add the exponents together, don't multiply them. Make sure you do the problem fully."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M05": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "Given the following geometric sequence with 15 as its start, what is the 6th term in the sequence, assuming it can be determined?<br>15, -30, 60, -120, 240, …",
+          "CorrectAnswer": "-480",
+          "Explanation": "The common ratio for this sequence is -2. Multiply the last term by the common ratio to get the next term.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "480",
+              "WrongAnswerClue": "Pay attention to the sign."
+            },
+            {
+              "WrongAnswer": "-360",
+              "WrongAnswerClue": "A geometric sequence involves multiplying by a common ratio. Not addition."
+            },
+            {
+              "WrongAnswer": "-720",
+              "WrongAnswerClue": "Incorrect Common Ratio."
+            },
+            {
+              "WrongAnswer": "720",
+              "WrongAnswerClue": "Incorrect Common Ratio. Pay attention to the sign."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "Given the following geometric sequence with 729 as its start, what is the 6th term in the sequence, assuming it can be determined?<br>729, -243, 81, -27, 9, …",
+          "CorrectAnswer": "-3",
+          "Explanation": "The common ratio for this sequence is -1/3. Multiply the last term by the common ratio to get the next term.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "3",
+              "WrongAnswerClue": "Pay attention to the sign."
+            },
+            {
+              "WrongAnswer": "-18",
+              "WrongAnswerClue": "A geometric sequence involves multiplying by a common ratio. Not addition."
+            },
+            {
+              "WrongAnswer": "-1",
+              "WrongAnswerClue": "Incorrect Common Ratio."
+            },
+            {
+              "WrongAnswer": "1",
+              "WrongAnswerClue": "Incorrect Common Ratio. Pay attention to the sign."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "Given the following geometric sequence with 2 as its start, what is the 5th term in the sequence, assuming it can be determined?<br>2, 4, 8, 16, …",
+          "CorrectAnswer": "32",
+          "Explanation": "The common ratio for this sequence is 2. Multiply the last term by the common ratio to get the next term.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-32",
+              "WrongAnswerClue": "Pay attention to the sign."
+            },
+            {
+              "WrongAnswer": "24",
+              "WrongAnswerClue": "A geometric sequence involves multiplying by a common ratio. Not addition."
+            },
+            {
+              "WrongAnswer": "30",
+              "WrongAnswerClue": "A geometric sequence involves multiplying by a common ratio, not adding the previous terms."
+            },
+            {
+              "WrongAnswer": "48",
+              "WrongAnswerClue": "Incorrect Common Ratio. Pay attention to the sign."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "Given the following geometric sequence with -256 as its start, what is the 6th term in the sequence, assuming it can be determined?<br>-256, 192, -144, 108, -81, …",
+          "CorrectAnswer": "60 3/4",
+          "Explanation": "The common ratio for this sequence is -2. Multiply the last term by the common ratio to get the next term.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-60 3/4",
+              "WrongAnswerClue": "Pay attention to the sign."
+            },
+            {
+              "WrongAnswer": "-181",
+              "WrongAnswerClue": "A geometric sequence involves multiplying by a common ratio. Not addition."
+            },
+            {
+              "WrongAnswer": "63",
+              "WrongAnswerClue": "Incorrect Common Ratio."
+            },
+            {
+              "WrongAnswer": "-63",
+              "WrongAnswerClue": "Incorrect Common Ratio. Pay attention to the sign."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M06": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "How many <i>minutes</i> would it take a person riding a bike to travel 100 miles at a constant rate of 20 miles per hour?<br>(Note: There are 60 minutes in 1 hour)",
+          "CorrectAnswer": "300",
+          "Explanation": "Divide miles by miles/hour to get hours. Then multiply by minutes/hour (60) to get minutes.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "5",
+              "WrongAnswerClue": "This is the number of hours. How many <i>minutes</i> would it take?"
+            },
+            {
+              "WrongAnswer": "18,000",
+              "WrongAnswerClue": "This is the number of seconds. How many <i>minutes</i> would it take?"
+            },
+            {
+              "WrongAnswer": "33",
+              "WrongAnswerClue": "Divide miles by miles/hour to get hours. Multiply hours by minutes/hour to get minutes."
+            },
+            {
+              "WrongAnswer": "120,000",
+              "WrongAnswerClue": "Divide miles by miles/hour to get the number of hours. Don't multiply the two."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "How many <i>seconds</i> would it take a person riding a tiger to travel 160 miles at a constant rate of 40 miles per hour?<br>(Note: There are 3600 seconds in an hour.)<br>(We are assuming the tiger doesn't get tired.)",
+          "CorrectAnswer": "14,400",
+          "Explanation": "Divide miles by miles/hour to get hours. Then multiply by seconds/hour (3600) to get seconds.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "4",
+              "WrongAnswerClue": "This is the number of hours. How many <i>seconds</i> would it take?"
+            },
+            {
+              "WrongAnswer": "240",
+              "WrongAnswerClue": "This is the number of minutes. How many <i>seconds</i> would it take?"
+            },
+            {
+              "WrongAnswer": "2",
+              "WrongAnswerClue": "Pay attention to whether you need to multiply or divide when translating units."
+            },
+            {
+              "WrongAnswer": "10,700",
+              "WrongAnswerClue": "Pay attention to whether you need to multiply or divide when translating units. Watch the number of digits."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "How many <i>minutes</i> would it take for a person riding on the back of a fire breathing robotic dragon flying at 700 miles per hour to fly 3,675 miles?<br>(Note: There are 60 minutes in 1 hour)",
+          "CorrectAnswer": "315",
+          "Explanation": "Divide miles by miles/hour to get hours. Then multiply by minutes/hour (60) to get minutes.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "18,900",
+              "WrongAnswerClue": "This is the number of seconds. How many <i>minutes</i> would it take?"
+            },
+            {
+              "WrongAnswer": "3,150",
+              "WrongAnswerClue": "Pay attention to the number of digits when multiplying."
+            },
+            {
+              "WrongAnswer": "351",
+              "WrongAnswerClue": "Be careful. Make sure the answer you select is actually the one you calculated."
+            },
+            {
+              "WrongAnswer": "442,875",
+              "WrongAnswerClue": "Pay attention to whether you need to multiply or divide when translating units."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "How many <i>seconds</i> would it take for a person riding a car at 60 miles per hour to travel 270 miles?<br>(Note: There are 3,600 seconds in one hour)",
+          "CorrectAnswer": "16,200",
+          "Explanation": "Divide miles by miles/hour to get hours. Then multiply by seconds/hour (3600) to get seconds.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "5",
+              "WrongAnswerClue": "This is closer to the hours. The question asks for <i>seconds</i>"
+            },
+            {
+              "WrongAnswer": "45",
+              "WrongAnswerClue": "Pay attention to whether you are multiplying or dividing when translating to different units."
+            },
+            {
+              "WrongAnswer": "270",
+              "WrongAnswerClue": "This is the number of minutes. The question asks for <i>seconds</i>"
+            },
+            {
+              "WrongAnswer": "1,620",
+              "WrongAnswerClue": "Pay attention to the number of zeroes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M07": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "Sam and Josh are giving water to a few cows on a ranch. They start with 10 gallons of water. Sam gives 1 1/2 gallons of water to the first cow and Josh gave 2 7/8 gallons to the second. How many gallons of water were left?",
+          "CorrectAnswer": "5 5/8 gallons",
+          "Explanation": "In your calculator, type 10 - (((1 * 2) + 1) / 2) - (((2 * 8) + 7)/8) to get the answer as a decimal value. Convert the decimal into a fraction using your calculator's Decimal to Fraction conversion function.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "6 gallons",
+              "WrongAnswerClue": "Mistake adding the fractions. Make sure the denominators match before adding the numerators."
+            },
+            {
+              "WrongAnswer": "6 1/5 gallons",
+              "WrongAnswerClue": "When adding fractions, do not add the denominator. Ensure the denominator is common among the fractions, then add the numerator."
+            },
+            {
+              "WrongAnswer": "4 3/8 gallons",
+              "WrongAnswerClue": "This is the sum of what paint was used. Subtract this from the total they start with to get what's left."
+            },
+            {
+              "WrongAnswer": "3 gallons",
+              "WrongAnswerClue": "Mistake adding the fractions. Make sure the denominators match before adding the numerators."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "Andrew, Zach and James are each splitting a 5 gallon tub of popcorn. Andrew takes 1 1/3 gallons of popcorn home. Zach takes 2 1/6 gallons of popcorn home, and James takes 11/12 of a gallon. How many gallons of popcorn are left?",
+          "CorrectAnswer": "7/12 gallons",
+          "Explanation": "In your calculator, type 5 - (((1 * 3) + 1) / 3) - (((2 * 6) + 1)/6) to get the answer as a decimal value. Convert the decimal into a fraction using your calculator's Decimal to Fraction conversion function.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "1 1/2 gallons",
+              "WrongAnswerClue": "You only added the first two fractions. Make sure you add all of what has been used before subtracting from the starting total."
+            },
+            {
+              "WrongAnswer": "4 5/12 gallons",
+              "WrongAnswerClue": "This is the sum of the fractions. Subtract this from the starting total to get what's left."
+            },
+            {
+              "WrongAnswer": "1 8/21 gallons",
+              "WrongAnswerClue": "When adding fractions, do not add the denominators. Set the denominators equal to a common denominator, then add the numerators."
+            },
+            {
+              "WrongAnswer": "11/12 gallons",
+              "WrongAnswerClue": "Mistake adding the fractions. When changing the denominators of a fraction, change the numerator as well to ensure the fraction remains the same ratio."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "Mathew and Stephanie are splitting a 5 liter jug of Unbranded diet cola. Mathew drinks 4 3/8 liters of the soda while Stephanie drinks 1/2 liter of soda. How much soda is left? Simplify your answer.",
+          "CorrectAnswer": "1/8 liters",
+          "Explanation": "In your calculator, type 5 - (((4 * 8) + 3) / 4) - (1/4) to get the answer as a decimal value. Convert the decimal into a fraction using your calculator's Decimal to Fraction conversion function.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "4 7/8 liters",
+              "WrongAnswerClue": "This is the sum of what was used. Subtract this from the starting total to get what remains."
+            },
+            {
+              "WrongAnswer": "2/3 liters",
+              "WrongAnswerClue": "When adding fractions, do not add the denominator. Ensure the denominator is common among the fractions, then add the numerator."
+            },
+            {
+              "WrongAnswer": "0 liters",
+              "WrongAnswerClue": "Mistake when adding the fractions. When changing the denominator to a common one, change the numerator as well to match."
+            },
+            {
+              "WrongAnswer": "1/2 liters",
+              "WrongAnswerClue": "Mistake when adding the fractions. When changing the denominator to a common one, change the numerator as well to match."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "Two werewolves are splitting a plate of steak. The two start with 7 pounds of steak. The first werewolf ends up eating 2 1/4 pounds of steak and the second eats 3 6/7 pounds of steak. How much steak remains?",
+          "CorrectAnswer": "25/28 pounds",
+          "Explanation": "In your calculator, type 7 - (((2 * 4) + 1) / 4) - (((3 * 7) + 6)/7) to get the answer as a decimal value. Convert the decimal into a fraction using your calculator's Decimal to Fraction conversion function.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "6 3/28 pounds",
+              "WrongAnswerClue": "This is the sum of the gallons used. To get what remains, subtract this from the number of gallons you start with, 7."
+            },
+            {
+              "WrongAnswer": "13/14 pounds",
+              "WrongAnswerClue": "There was a mistake somewhere in your calculations. Work through the problem carefully and double check your math in each step."
+            },
+            {
+              "WrongAnswer": "1 pound",
+              "WrongAnswerClue": "There was a mistake in adding the fractions together. Make sure the denominators match before adding the numerators."
+            },
+            {
+              "WrongAnswer": "1/4 pounds",
+              "WrongAnswerClue": "There was a mistake in adding the fractions together. Make sure the denominators match before adding the numerators."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M08": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "The length of the hypotenuse of a right triangle is 41 inches, and the length of one of its legs is 9 inches. What is the length, in inches, of the other leg of the triangle?",
+          "CorrectAnswer": "40",
+          "Explanation": "B<sup>2</sup> = C<sup>2</sup> - A<sup>2</sup> where C is the length of the hypotenuse, and A and B are the lengths of the legs. Subtract the square of the first leg from the square of the hypotenuse, then take the square root of the result.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "60",
+              "WrongAnswerClue": "The square root of 41<sup>2</sup> - 9<sup>2</sup> is not 60. The length of the leg of a right triangle cannot be greater than the length of the hypotenuse."
+            },
+            {
+              "WrongAnswer": "1600",
+              "WrongAnswerClue": "C<sup>2</sup> - A<sup>2</sup> = B<sup><b>2</b></sup>. Don't forget to take the square root at the end."
+            },
+            {
+              "WrongAnswer": "400",
+              "WrongAnswerClue": "Pay close attention to the number of zeroes."
+            },
+            {
+              "WrongAnswer": "800",
+              "WrongAnswerClue": "Taking the square root involves finding what number X is multiplied by itself to get the number you are taking the square root of."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "The length of the hypotenuse of a right triangle is 10 inches and the length of one of its legs is 8 inches. What is the length, in inches, of the other leg of the triangle?",
+          "CorrectAnswer": "6",
+          "Explanation": "B<sup>2</sup> = C<sup>2</sup> - A<sup>2</sup> where C is the length of the hypotenuse, and A and B are the lengths of the legs. Subtract the square of the first leg from the square of the hypotenuse, then take the square root of the result.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "&radic;<span style=\"text-decoration:overline;\">&nbsp;164&nbsp;</span>",
+              "WrongAnswerClue": "To get the length of a side, <i>subtract</i> the square of the other side from the square of the hypotenuse, then take the square root of the result."
+            },
+            {
+              "WrongAnswer": "11",
+              "WrongAnswerClue": "The length of a side cannot be longer than the hypotenuse."
+            },
+            {
+              "WrongAnswer": "36",
+              "WrongAnswerClue": "You forgot to take the square root of your result."
+            },
+            {
+              "WrongAnswer": "13",
+              "WrongAnswerClue": "Taking the square root involves finding what number X is multiplied by itself to get the number you are taking the square root of. It does not involve division."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "The length of the hypotenuse of a right triangle is 20 inches and the length of one of its legs is 12 inches. What is the length, in inches, of the other leg of the triangle?",
+          "CorrectAnswer": "16",
+          "Explanation": "B<sup>2</sup> = C<sup>2</sup> - A<sup>2</sup> where C is the length of the hypotenuse, and A and B are the lengths of the legs. Subtract the square of the first leg from the square of the hypotenuse, then take the square root of the result.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "&radic;<span style=\"text-decoration:overline;\">&nbsp;544&nbsp;</span>",
+              "WrongAnswerClue": "The length of a side cannot be longer than the hypotenuse."
+            },
+            {
+              "WrongAnswer": "12",
+              "WrongAnswerClue": "This is incorrect. The two legs of the triangle are not the same length in this case."
+            },
+            {
+              "WrongAnswer": "256",
+              "WrongAnswerClue": "You forgot to take the square root of your result."
+            },
+            {
+              "WrongAnswer": "128",
+              "WrongAnswerClue": "Taking the square root involves finding what number X is multiplied by itself to get the number you are taking the square root of. It does not involve division."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "The length of the hypotenuse of a right triangle is 2.5 meters and the length of one of its legs is 1.5 meters. What is the length, in meters, of the other leg of the triangle?",
+          "CorrectAnswer": "2",
+          "Explanation": "B<sup>2</sup> = C<sup>2</sup> - A<sup>2</sup> where C is the length of the hypotenuse, and A and B are the lengths of the legs. Type 2.5<sup>2</sup> - 1.5<sup>2</sup> into your calculator and square the result.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "&radic;<span style=\"text-decoration:overline;\">&nbsp;8.5&nbsp;</span>",
+              "WrongAnswerClue": "<i>Subtract</i> the square of the leg from the square of the hypotenuse."
+            },
+            {
+              "WrongAnswer": "1.5",
+              "WrongAnswerClue": "This is incorrect. The two legs of the triangle are not the same length in this case."
+            },
+            {
+              "WrongAnswer": "1",
+              "WrongAnswerClue": "Subtract the <i>square</i> of the leg from the <i>square</i> of the hypotenuse, then take the <i>square root</i> of the result."
+            },
+            {
+              "WrongAnswer": "4",
+              "WrongAnswerClue": "Squares are found by multiplying a number by itself. X<sup>2</sup> = X * X, not X * 2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M09": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "There are 500 superheroes in a specific hero organization. Of these heroes, 7% of them have a psychic power. Of the heroes who are not psychic, 30 of them have super strength. How many heroes that are NOT psychic and don't have super strength?",
+          "CorrectAnswer": "435",
+          "Explanation": "In your calculator, type 500 - (500 * 0.07) - 30.<br>Total - #psychic - non-psychic super strength",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "120",
+              "WrongAnswerClue": "You miscalculated the number of psychic heroes.<br>7% of X == X * 0.07<br>X * 0.7 == 70% of X"
+            },
+            {
+              "WrongAnswer": "465",
+              "WrongAnswerClue": "Incomplete Process. You forgot to subtract the super strong heroes."
+            },
+            {
+              "WrongAnswer": "470",
+              "WrongAnswerClue": "Incomplete Process. You forgot to subtract the psychic heroes."
+            },
+            {
+              "WrongAnswer": "453",
+              "WrongAnswerClue": "Pay careful attention to the answer you select and the order of the digits."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "There are 250 planks of wood in a pile. Of these planks, 10% of them have termites. Of the planks that don't have termites, 50 of them are broken. How many planks of termite free wood are unbroken?",
+          "CorrectAnswer": "175",
+          "Explanation": "In your calculator, type 250 - (250 * 0.1) - 50.<br>Total - (#termite infested) - (# non-infested intact pieces of wood).",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "190",
+              "WrongAnswerClue": "10% of 250 is not 10. It is 1/10 of 250."
+            },
+            {
+              "WrongAnswer": "225",
+              "WrongAnswerClue": "Incomplete Process. You forgot to subtract the unbroken planks."
+            },
+            {
+              "WrongAnswer": "470",
+              "WrongAnswerClue": "Incomplete Process. You forgot to subtract the handicap spaces."
+            },
+            {
+              "WrongAnswer": "170",
+              "WrongAnswerClue": "Pay careful attention when subtracting."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "There are 600 androids in a robotic army. Of these droids, 15% of them lack laser beams in their eyes. Of the droids with lasers, 60 of them are too low on power to use the lasers. How many droids have lasers with enough power to use them?",
+          "CorrectAnswer": "450",
+          "Explanation": "In your calculator, type 600 - (600 * 0.15) - 60.<br>Total - (# no lasers) - (# lasers without power)",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "30",
+              "WrongAnswerClue": "You subtracted 60 from the number of droids without lasers. You should subtract from the droids with lasers instead."
+            },
+            {
+              "WrongAnswer": "540",
+              "WrongAnswerClue": "Incomplete Process. You forgot to subtract the droids without lasers."
+            },
+            {
+              "WrongAnswer": "510",
+              "WrongAnswerClue": "Incomplete Process. You forgot to subtract the droids without power."
+            },
+            {
+              "WrongAnswer": "405",
+              "WrongAnswerClue": "Pay careful attention to the answer you select and the order of the digits."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "There are 400 star ships in a galactic fleet. Of these ships, 20% of them are currently stored on a carrier ship for refueling. Of the ships remaining outside of the carrier, 70 are running low on fuel. How many ships are not refueling or low on fuel?",
+          "CorrectAnswer": "250",
+          "Explanation": "In your calculator, type 400 - (400 * 0.2) - 70. Total - #psychic - non-psychic super strength",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "322",
+              "WrongAnswerClue": "You miscalculated the number of handicap spaces.<br>20% of X == X * 0.2<br>X * 0.02 == 2% of X"
+            },
+            {
+              "WrongAnswer": "320",
+              "WrongAnswerClue": "Incomplete Process. You forgot to subtract the ships that are low on fuel."
+            },
+            {
+              "WrongAnswer": "330",
+              "WrongAnswerClue": "Incomplete Process. You forgot to subtract the ships on the carrier."
+            },
+            {
+              "WrongAnswer": "25",
+              "WrongAnswerClue": "Pay careful attention to the number of digits on your answer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M10": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "An artist made a modern art piece by placing 9 rows of stone pillars in a triangular pattern. Each row contains one more pillar than the previous row. If the first row only has one pillar, how many pillars are in the art piece?",
+          "CorrectAnswer": "45",
+          "Explanation": "Add the number of pillars in each row. 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "81",
+              "WrongAnswerClue": "Add the number of pillars in each row. Read the question carefully and consider how many pillars are in each row."
+            },
+            {
+              "WrongAnswer": "40",
+              "WrongAnswerClue": "Go back and make sure you didn't skip any rows when adding."
+            },
+            {
+              "WrongAnswer": "55",
+              "WrongAnswerClue": "There are only 9 rows to count, and they start at 1 pillar."
+            },
+            {
+              "WrongAnswer": "50",
+              "WrongAnswerClue": "Your addition is off. Don't hesitate to use a calculator."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "A botanist planted a bunch of experimental hybrid plants in a triangular pattern with 5 rows. If each row has one more plant in it than the previous, and the first row has only one plant, how many plants are in the triangular arrangement?",
+          "CorrectAnswer": "15",
+          "Explanation": "Add the number of pillars in each row. 1 + 2 + 3 + 4 + 5 = 15",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "10",
+              "WrongAnswerClue": "Make sure you add all of the pillars in all of the rows."
+            },
+            {
+              "WrongAnswer": "25",
+              "WrongAnswerClue": "Add the number of pillars in each row. Read the question carefully and consider how many pillars are in each row."
+            },
+            {
+              "WrongAnswer": "5",
+              "WrongAnswerClue": "Make sure you add all of the pillars in all of the rows."
+            },
+            {
+              "WrongAnswer": "20",
+              "WrongAnswerClue": "Your addition is off. Don't hesitate to use a calculator."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "A city planner is arranging a number of similarly sized houses in a roughly triangular neighborhood. Each street in the neighborhood has 1 more house on it than the previous, with the first small street only having 1 house. If there are 12 different streets in the neighborhood, how many houses are there?",
+          "CorrectAnswer": "78",
+          "Explanation": "Add the number of pillars in each row. 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 = 78",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "87",
+              "WrongAnswerClue": "Pay attention to the order of the digits."
+            },
+            {
+              "WrongAnswer": "70",
+              "WrongAnswerClue": "Make sure you are adding all of the rows, and not skipping any."
+            },
+            {
+              "WrongAnswer": "80",
+              "WrongAnswerClue": "The number is too high. Make sure you didn't duplicate any rows."
+            },
+            {
+              "WrongAnswer": "91",
+              "WrongAnswerClue": "There are only 12 rows. Make sure you didn't add an extra row."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "A man is designing a wind farm. He's arranging the windmills in a triangular pattern consisting of 6 rows of windmills. Each row has two more windmills in it than the previous one, with the first row having only one windmill. How many windmills are in the farm?",
+          "CorrectAnswer": "36",
+          "Explanation": "Add the number of pillars in each row. 1 + 3 + 5 + 7 + 9 + 11 = 36",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "21",
+              "WrongAnswerClue": "Look at the question again and see how each row has <i>two</i> more windmills than the previous row."
+            },
+            {
+              "WrongAnswer": "25",
+              "WrongAnswerClue": "Make sure you add all of the rows together and don't miss any."
+            },
+            {
+              "WrongAnswer": "41",
+              "WrongAnswerClue": "Check to see that you didn't accidentally duplicate a row."
+            },
+            {
+              "WrongAnswer": "38",
+              "WrongAnswerClue": "Check to see that you didn't mix the numbers of windmills in any of the rows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M11": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "If a = 5, b = 10, and c = 20, what is (a/b<sup>2</sup>) + (c/10)?",
+          "CorrectAnswer": "2 1/20",
+          "Explanation": "Type ( 5 / 10<sup>2</sup> ) + ( c / 10 ) into your calculator, then use the decimal to fraction conversion function on the result.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "2 1/2",
+              "WrongAnswerClue": "Did you forget to square b?"
+            },
+            {
+              "WrongAnswer": "11/20",
+              "WrongAnswerClue": "Did you accidentally divide 10/c rather than c/10?"
+            },
+            {
+              "WrongAnswer": "2 3/20",
+              "WrongAnswerClue": "Pay careful attention to the answer you select. Make sure it's the one you want."
+            },
+            {
+              "WrongAnswer": "22",
+              "WrongAnswerClue": "Make sure you divide ( a / b<sup>2</sup>) and not ( b<sup>2</sup> / a)."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "If a = 2, b = 8, and c = 30, what is (a<sup>3</sup>/b) - (15/c)?",
+          "CorrectAnswer": "1/2",
+          "Explanation": "Type ( 2<sup>3</sup> / 8 ) - ( 15 / 30 ) into the calculator to get 0.5. 0.5 = 1/2.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-1/4",
+              "WrongAnswerClue": "Did you forget to take a to the power of 3?"
+            },
+            {
+              "WrongAnswer": "1",
+              "WrongAnswerClue": "Did you forget to subtract (15/c)?"
+            },
+            {
+              "WrongAnswer": "-1",
+              "WrongAnswerClue": "Did you accidentally subtract (c/15) instead of (15/c)?"
+            },
+            {
+              "WrongAnswer": "-1/2",
+              "WrongAnswerClue": "Watch your sign when subtracting."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "If a = 18, b = 3, and c = 10, what is (a/b<sup>2</sup>) + (c/30)?",
+          "CorrectAnswer": "2 1/3",
+          "Explanation": "Type ( 18 / 3<sup>2</sup> ) - ( 10 / 30 ) into the calculator. Then use the decimal to fraction conversion function on the result.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "6 1/3",
+              "WrongAnswerClue": "Did you forget to square b before dividing?"
+            },
+            {
+              "WrongAnswer": "2 1/6",
+              "WrongAnswerClue": "Your math is incorrect. Don't be afraid to use a calculator."
+            },
+            {
+              "WrongAnswer": "2 2/3",
+              "WrongAnswerClue": "Your math is incorrect. Don't be afraid to use a calculator."
+            },
+            {
+              "WrongAnswer": "1 2/3",
+              "WrongAnswerClue": "Did you subtract (c/30) instead of adding it?"
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "If a = 5, b = 5, and c = 10, what is (a/b<sup>3</sup>) + (c/25)?",
+          "CorrectAnswer": "11/25",
+          "Explanation": "Type ( 5 / 5<sup>3</sup> ) - ( 10 / 25 ) into the calculator. Then use the decimal to fraction conversion function on the result.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "3/5",
+              "WrongAnswerClue": "Pay careful attention to the exponents."
+            },
+            {
+              "WrongAnswer": "2/5",
+              "WrongAnswerClue": "Don't forget to do all parts of the problem before selecting an answer."
+            },
+            {
+              "WrongAnswer": "1/25",
+              "WrongAnswerClue": "Don't forget to do all parts of the problem before selecting an answer."
+            },
+            {
+              "WrongAnswer": "12/25",
+              "WrongAnswerClue": "Close, but 12/25 isn't the answer. Double check your calculations."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ACTC03": [
+    {
+      "M01": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "Given the function <i>f</i>(x,y) = 2x<sup>3</sup> + 3y, what is the value of <i>f</i>(2,3)?",
+          "CorrectAnswer": "25",
+          "Explanation": "<i>f</i>(2,3): replace all occurrences of x with 2 and y with 3. Then solve.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "60",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "17",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "24",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "19",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "Given the function <i>f</i>(x,y) = 4x / 2y, what is the value of <i>f</i>(2,4)?",
+          "CorrectAnswer": "1",
+          "Explanation": "<i>f</i>(2,4): replace all occurrences of x with 2 and y with 4. Then solve.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "2",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "4",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "8",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "10",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "Given the function <i>f</i>(x,y) = (4x<sup>2</sup> * 3y) / 10, what is the value of <i>f</i>(3,5)?",
+          "CorrectAnswer": "54",
+          "Explanation": "<i>f</i>(3,5): replace all occurrences of x with 3 and y with 5. Then solve.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "45",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "90",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "540",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "900",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "Given the function <i>f</i>(x,y) = 5x - 4y<sup>2</sup>, what is the value of <i>f</i>(4,2)?",
+          "CorrectAnswer": "4",
+          "Explanation": "<i>f</i>(4,2): replace all occurrences of x with 4 and y with 2. Then solve.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-4",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "-5",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "5",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "8",
+              "WrongAnswerClue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M03": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "For all values of x and y that aren't zero, which of the following is the same as (12x<sup>5</sup>y<sup>4</sup>) / (3x<sup>2</sup>y)?",
+          "CorrectAnswer": "4x<sup>3</sup>y<sup>3</sup>",
+          "Explanation": "In this case, you can divide 12 by 3, x<sup>5</sup> by x<sup>2</sup>, and y<sup>4</sup> by y.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "15x<sup>7</sup>y<sup>5</sup>",
+              "WrongAnswerClue": "Divide 12 by 3. When dividing exponential terms, subtract the exponents, don't add them."
+            },
+            {
+              "WrongAnswer": "9x<sup>10</sup>y<sup>4</sup>",
+              "WrongAnswerClue": "Divide 12 by 3. When dividing exponential terms, subtract the exponents, don't multiply them."
+            },
+            {
+              "WrongAnswer": "4x<sup>7</sup>y<sup>5</sup>",
+              "WrongAnswerClue": "When dividing exponential terms, subtract the exponent of the denominator from the exponent of the numerator."
+            },
+            {
+              "WrongAnswer": "4x<sup>10</sup>y<sup>5</sup>",
+              "WrongAnswerClue": "When dividing exponential terms, subtract the exponent of the denominator from the exponent of the numerator."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "For all values of x and y that aren't zero, which of the following is the same as (20x<sup>7</sup>y<sup>4</sup>) / (4xy<sup>2</sup>)?",
+          "CorrectAnswer": "5x<sup>6</sup>y<sup>2</sup>",
+          "Explanation": "In this case, you can divide 20 by 4, x<sup>7</sup> by x, and y<sup>4</sup> by y<sup>2</sup>.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "24x<sup>6</sup>y<sup>2</sup>",
+              "WrongAnswerClue": "Divide 20 by 4, don't add."
+            },
+            {
+              "WrongAnswer": "16x<sup>8</sup>y<sup>6</sup>",
+              "WrongAnswerClue": "Divide 20 by 4, don't subtract. When dividing exponential terms with the same base, subtract the bottom exponent from the top."
+            },
+            {
+              "WrongAnswer": "5x<sup>8</sup>y<sup>6</sup>",
+              "WrongAnswerClue": "When dividing exponential terms with the same base, subtract the bottom exponent from the top."
+            },
+            {
+              "WrongAnswer": "5x<sup>7</sup>y<sup>8</sup>",
+              "WrongAnswerClue": "When dividing exponential terms with the same base, subtract the bottom exponent from the top."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "For all values of x and y that aren't zero, which of the following is the same as (14x<sup>4</sup>y<sup>4</sup>) / (7x<sup>3</sup>y<sup></sup>)",
+          "CorrectAnswer": "2x<sup></sup>y<sup>3</sup>",
+          "Explanation": "In this case, you can divide 12 by 3, x<sup>5</sup> by x<sup>2</sup>, and y<sup>4</sup> by y.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "21x<sup>7</sup>y<sup>5</sup>",
+              "WrongAnswerClue": "Divide 14 by 7, don't add. When dividing exponential terms with the same base, subtract the bottom exponent from the top."
+            },
+            {
+              "WrongAnswer": "7x<sup></sup>y<sup>3</sup>",
+              "WrongAnswerClue": "Divide 14 by 7. When dividing exponential terms with the same base, subtract the bottom exponent from the top."
+            },
+            {
+              "WrongAnswer": "7x<sup>7</sup>y<sup>5</sup>",
+              "WrongAnswerClue": "Divide 14 by 7. When dividing exponential terms with the same base, subtract the bottom exponent from the top."
+            },
+            {
+              "WrongAnswer": "2x<sup>7</sup>y<sup>3</sup>",
+              "WrongAnswerClue": "When dividing exponential terms with the same base, subtract the bottom exponent from the top."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "For all values of x and y that aren't zero, which of the following is the same as (15x<sup>3</sup>y<sup>3</sup>) / (5x<sup></sup>y<sup>-2</sup>)",
+          "CorrectAnswer": "3x<sup>2</sup>y<sup>5</sup>",
+          "Explanation": "In this case, you can divide 15 by 5, x<sup>3</sup> by x, and y<sup>3</sup> by y<sup>-2</sup>.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "20x<sup>4</sup>y<sup></sup>",
+              "WrongAnswerClue": "Divide 15 by 5. Don't add."
+            },
+            {
+              "WrongAnswer": "10x<sup>4</sup>y<sup></sup>",
+              "WrongAnswerClue": "Divide 15 by 5. Don't subtract."
+            },
+            {
+              "WrongAnswer": "10x<sup>2</sup>y<sup>5</sup>",
+              "WrongAnswerClue": "Divide 15 by 5. Don't subtract. When dividing exponential terms with the same base, subtract the bottom exponent from the top."
+            },
+            {
+              "WrongAnswer": "3x<sup>4</sup>y<sup></sup>",
+              "WrongAnswerClue": "When dividing exponential terms with the same base, subtract the bottom exponent from the top."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M04": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "An interstate bus service charges its passengers $0.50 for every 10 miles it ends up traveling, plus an initial $5 up front. How much would it cost to travel 5000 miles using the bus?",
+          "CorrectAnswer": "$255.00",
+          "Explanation": "5000 / 10 gives you the number of times you pay $0.50 for distance. Multiply (5000 / 10) * 0.5 gets the amount of payment for distance. Add $5 to the result to get $255.00.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "$225.00",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$275.00",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$300.00",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$355.00",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "An airline charges calculates it’s prices based on distance traveled. It charges passengers $7.50 for each 10 miles the airplane has to go, plus an additional $200 fee up front. How much would it cost to travel 3000 miles using this airline?",
+          "CorrectAnswer": "$2,450.00",
+          "Explanation": "3000 / 10 gives you 300. 300 is how much you multiply $7.50 by to get the price for distance, $2,250.00. Finally, add the $200 up front fee to get the total cost.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "$245.00",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$2,400.00",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$2,500.00",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$22,700.00",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "A taxi service charges $10 for every 5 miles traveled on top of an additional $4.50 fee. How much would it cost to travel 25 miles using the taxi service?",
+          "CorrectAnswer": "$54.50",
+          "Explanation": "25 / 5 gives you 5, which you multiply by $10 to get the cost for distance of $50. Add the $4.50 fee to get your total.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "$29.50",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$50.00",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$254.50",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$545.00",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "A tour guide charges $20 for every half hour the tour lasts. This is in addition to an initial fee of $50.00. How much would the tour guide charge for an 8 hour tour?",
+          "CorrectAnswer": "$370.00",
+          "Explanation": "8 / 0.5 (or 8 * 2) to get 16. Multiply that by the price per half-hour, $20, to get $320.00. Finally, add the $50.00 fee to get your total amount.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "$160.00",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$210.00",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$270.00",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "$320.00",
+              "WrongAnswerClue": "Don't forget to add the $50.00 fee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M05": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "For x = -3, what is 5x<sup>2</sup> + 11x?",
+          "CorrectAnswer": "12",
+          "Explanation": "Simply replace all occurrences of x in the equation with (-3) and then solve. Use your calculator if you need to.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-78",
+              "WrongAnswerClue": "Squaring a negative number results in a positive number."
+            },
+            {
+              "WrongAnswer": "-48",
+              "WrongAnswerClue": "You forgot to square the first x."
+            },
+            {
+              "WrongAnswer": "-12",
+              "WrongAnswerClue": "Squaring a negative number results in a positive number. Adding a negative is the same as subtracting a positive."
+            },
+            {
+              "WrongAnswer": "78",
+              "WrongAnswerClue": "Did you accidentally forget the negative sign on -3? This result comes from using 3 in place of x."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "For x = -2, what is 4x<sup>3</sup> + 5x",
+          "CorrectAnswer": "-42",
+          "Explanation": "Simply replace all occurrences of x in the equation with (-3) and then solve. Use your calculator if you need to.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "42",
+              "WrongAnswerClue": "Don't forget the negative sign."
+            },
+            {
+              "WrongAnswer": "-22",
+              "WrongAnswerClue": "Subtract 10, don't add it."
+            },
+            {
+              "WrongAnswer": "22",
+              "WrongAnswerClue": "Cubing a negative number results in a negative number."
+            },
+            {
+              "WrongAnswer": "-18",
+              "WrongAnswerClue": "Did you forget to cube -2?"
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "For x = -4, what is 2x<sup>2</sup> - 4x?",
+          "CorrectAnswer": "48",
+          "Explanation": "Simply replace all occurrences of x in the equation with (-3) and then solve. Use your calculator if you need to.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-48",
+              "WrongAnswerClue": "Pay attention to the sign."
+            },
+            {
+              "WrongAnswer": "-16",
+              "WrongAnswerClue": "Squaring a negative number results in a positive number."
+            },
+            {
+              "WrongAnswer": "16",
+              "WrongAnswerClue": "Did you forget the negative sign in the x? x = -4, not x = 4."
+            },
+            {
+              "WrongAnswer": "8",
+              "WrongAnswerClue": "You forgot to square x in 2x<sup>2</sup>."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "For x = -2, what is x<sup>4</sup> - 3x?",
+          "CorrectAnswer": "22",
+          "Explanation": "Simply replace all occurrences of x in the equation with (-3) and then solve. Use your calculator if you need to.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-22",
+              "WrongAnswerClue": "Pay attention to the sign."
+            },
+            {
+              "WrongAnswer": "-10",
+              "WrongAnswerClue": "Taking a negative number to the power of an even number results in a positive number."
+            },
+            {
+              "WrongAnswer": "-2",
+              "WrongAnswerClue": "The exponent is 4, not 3."
+            },
+            {
+              "WrongAnswer": "10",
+              "WrongAnswerClue": "Did you forget the negative sign in the x? x = -2, not x = 2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M17": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "In an (x,y) coordinate plane, what is the midpoint of the line between endpoints (1,3) and (5,9)?",
+          "CorrectAnswer": "(3,6)",
+          "Explanation": "Take the average of the two points. Add both together to get 6 and 12. Then divide by 2 to get (3,6).",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "(6,12)",
+              "WrongAnswerClue": "Take the average of the two points. Divide this by 2."
+            },
+            {
+              "WrongAnswer": "(3,9)",
+              "WrongAnswerClue": "The second digit is wrong. The midpoint between 3 and 9 isn't 9."
+            },
+            {
+              "WrongAnswer": "(2,7)",
+              "WrongAnswerClue": "This is wrong. Add the points together, then divide the result by 2."
+            },
+            {
+              "WrongAnswer": "(4,4)",
+              "WrongAnswerClue": "This is wrong. Add the points together, then divide the result by 2."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "In an (x,y) coordinate plane, what is the midpoint of the line between endpoints (-4,2) and (0,8)?",
+          "CorrectAnswer": "(-2,5)",
+          "Explanation": "Take the average of the two points. Add both together to get -4 and 10, then divide by two to get (-2,5).",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "(-4,10)",
+              "WrongAnswerClue": "Don't forget to divide by the number of points you have to get the average."
+            },
+            {
+              "WrongAnswer": "(2,3)",
+              "WrongAnswerClue": "This is not the midpoint. To get the midpoint, find the average x and y coordinate between the two points."
+            },
+            {
+              "WrongAnswer": "(-2,6)",
+              "WrongAnswerClue": "This is close, but your math is slightly off on the y coordinate."
+            },
+            {
+              "WrongAnswer": "(-3,5)",
+              "WrongAnswerClue": "This is not the midpoint. To get the midpoint, find the average x and y coordinate between the two points."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "In an (x,y) coordinate plane, what is the midpoint of the line between endpoints (7,4) and (3,10)?",
+          "CorrectAnswer": "(5,7)",
+          "Explanation": "Take the average of the two points. Add both together to get 10 and 14, then divide by two to get (5,7).",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "(5,14)",
+              "WrongAnswerClue": "You only divided the x coordinate by two. You forgot the y coordinate."
+            },
+            {
+              "WrongAnswer": "(10,7)",
+              "WrongAnswerClue": "You only divided the y coordinate by two. You forgot the x coordinate."
+            },
+            {
+              "WrongAnswer": "(5,6)",
+              "WrongAnswerClue": "The x coordinate is correct, but your math was wrong with the y coordinate."
+            },
+            {
+              "WrongAnswer": "(7,5)",
+              "WrongAnswerClue": "You have your x and y coordinates reversed."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "In an (x,y) coordinate plane, what is the midpoint of the line between endpoints (4,4) and (6,12)?",
+          "CorrectAnswer": "(5,8)",
+          "Explanation": "Take the average of the two points. Add both together to get 10 and 16, then divide by two to get (5,8).",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "(5,10)",
+              "WrongAnswerClue": "Your x coordinate is correct, but your math was wrong when calculating the y coordinate."
+            },
+            {
+              "WrongAnswer": "(5/2,4)",
+              "WrongAnswerClue": "No need to divide by two a second time."
+            },
+            {
+              "WrongAnswer": "(10,16)",
+              "WrongAnswerClue": "You added the points together, but forgot to divide to get the average/midpoint."
+            },
+            {
+              "WrongAnswer": "(5,9)",
+              "WrongAnswerClue": "Your x coordinate is correct, but the y coordinate is wrong."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M18": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "The following is true for what value of x?<br>(x<sup>2</sup> + 2x - 15) / (x - 3) = 7",
+          "CorrectAnswer": "2",
+          "Explanation": "First, factor the polynomial. Second, divide to eliminate one of the factors. Take what's left and solve for x.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-5",
+              "WrongAnswerClue": "(-5 + 5) does not equal 7."
+            },
+            {
+              "WrongAnswer": "-2",
+              "WrongAnswerClue": "Pay attention to the sign."
+            },
+            {
+              "WrongAnswer": "0",
+              "WrongAnswerClue": "When factoring, try multiplying the factors back together to make sure they're right. One of them should be (x - 3)."
+            },
+            {
+              "WrongAnswer": "5",
+              "WrongAnswerClue": "(5 + 5) does not equal 7."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "The following is true for what value of x?<br>(x<sup>2</sup> - 9) / (x + 3) = 3",
+          "CorrectAnswer": "6",
+          "Explanation": "First, factor the polynomial. Second, divide to eliminate one of the factors. Take what's left and solve for x.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-6",
+              "WrongAnswerClue": "Pay attention to the sign."
+            },
+            {
+              "WrongAnswer": "-3",
+              "WrongAnswerClue": "This would result in a division by zero, which is undefined."
+            },
+            {
+              "WrongAnswer": "0",
+              "WrongAnswerClue": "This results in -3, not 3."
+            },
+            {
+              "WrongAnswer": "3",
+              "WrongAnswerClue": "(3 - 3) = 0, not 3."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "The following is true for what value of x?<br>(x<sup>2</sup> + 10x + 25) / (x + 5) = 10",
+          "CorrectAnswer": "5",
+          "Explanation": "First, factor the polynomial. Second, divide to eliminate one of the factors. Take what's left and solve for x.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-5",
+              "WrongAnswerClue": "This would result in a division by zero, which is undefined."
+            },
+            {
+              "WrongAnswer": "0",
+              "WrongAnswerClue": "(x + 10) is not one of the factors."
+            },
+            {
+              "WrongAnswer": "10",
+              "WrongAnswerClue": "This would result in 15, not 10."
+            },
+            {
+              "WrongAnswer": "25",
+              "WrongAnswerClue": "(25 + 10) does not equal 10."
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "The following is true for what value of x?<br>(x<sup>2</sup> - 36) / (x - 6) = 0",
+          "CorrectAnswer": "-6",
+          "Explanation": "First, factor the polynomial. Second, divide to eliminate one of the factors. Take what's left and solve for x.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "-3",
+              "WrongAnswerClue": "This is not the solution. What must be the second factor if one of them is (x - 6)?"
+            },
+            {
+              "WrongAnswer": "0",
+              "WrongAnswerClue": "This is not the solution. What must be the second factor if one of them is (x - 6)?"
+            },
+            {
+              "WrongAnswer": "3",
+              "WrongAnswerClue": "This is not the solution. What must be the second factor if one of them is (x - 6)?"
+            },
+            {
+              "WrongAnswer": "6",
+              "WrongAnswerClue": "This would result in a division by zero, which is undefined."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M24": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "The graph of the function y = 10 sin(x) – 3 undergoes a single translation such that the equation becomes y = 10 sin(x) + 2. Which of the following describes the translation?",
+          "CorrectAnswer": "Translate Up 5 units.",
+          "Explanation": "In a function y = A f((x - a)/B) + b, horizontal (left/right) translations are expressed as 'a' while vertical (up/down) translations are expressed in 'b'.",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "Translate Down 5 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Left 5 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Right 5 units",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Down 1 unit.",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "The graph of the function y = 2 sin(x) – 4 undergoes a single translation such that the equation becomes y = 2 sin(x – 5) – 4. Which of the following describes the translation?",
+          "CorrectAnswer": "Translate Right 5 units.",
+          "Explanation": "",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "Translate Up 5 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Down 5 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Left 5 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Down 4 units.",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "The graph of the function y = 4 sin((x + 2) / 3) – 3 undergoes a single translation such that the equation becomes y = 4 sin((x + 2) / 3) – 6. Which of the following describes the translation?",
+          "CorrectAnswer": "Translate Down 3 units.",
+          "Explanation": "",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "Translate Up 6 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Left 6 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Right 3 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Down 6 units.",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "The graph of the function y = sin(x) undergoes two translations such that the equation becomes y = sin(x + 3) – 2. Which of the following describes the translation?",
+          "CorrectAnswer": "Translate Down 2 units and Left 3 units.",
+          "Explanation": "",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "Translate Up 2 units and Left 3 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Up 3 units and Right 2 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Down 3 units and Right 2 units.",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "Translate Down 2 units and Right 3 units.",
+              "WrongAnswerClue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "M26": [
+        {
+          "VersionNumber": 1,
+          "QuestionImage": "",
+          "QuestionText": "A given right triangle has a hypotenuse of 26 inches, one side is given to be 24 inches, and the angle formed by the intersection of the given side and the hypotenuse is represented as ϴ, what is the value of sin ϴ? (tip: Try drawing the triangle)",
+          "CorrectAnswer": "5/13",
+          "Explanation": "",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "5/12",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "13/12",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "12/13",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "12/5",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 2,
+          "QuestionImage": "",
+          "QuestionText": "A given right triangle has a hypotenuse of 5 inches, one side is given to be 3 inches, and the angle formed by the intersection of the given side and the hypotenuse is represented as ϴ, what is the value of sin ϴ? (tip: Try drawing the triangle)",
+          "CorrectAnswer": "4/5",
+          "Explanation": "",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "3/5",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "5/3",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "5/4",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "3/4",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 3,
+          "QuestionImage": "",
+          "QuestionText": "A given right triangle has a hypotenuse of 10 inches, one side is given to be 8 inches, and the angle formed by the intersection of the given side and the hypotenuse is represented as ϴ. What is the value of sin ϴ? (tip: Try drawing the triangle)",
+          "CorrectAnswer": "3/5",
+          "Explanation": "",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "5/3",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "4/5",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "5/4",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "3/4",
+              "WrongAnswerClue": ""
+            }
+          ]
+        },
+        {
+          "VersionNumber": 4,
+          "QuestionImage": "",
+          "QuestionText": "A given right triangle has a hypotenuse of 13 inches, one side is given to be 5 inches, and the angle formed by the intersection of the given side and the hypotenuse is represented as ϴ. What is the value of sin ϴ? (tip: Try drawing the triangle)",
+          "CorrectAnswer": "12/13",
+          "Explanation": "",
+          "Difficulty": 50,
+          "WrongAnswers": [
+            {
+              "WrongAnswer": "5/13",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "5/12",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "13/12",
+              "WrongAnswerClue": ""
+            },
+            {
+              "WrongAnswer": "12/5",
+              "WrongAnswerClue": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
